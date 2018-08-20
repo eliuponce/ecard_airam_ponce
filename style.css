@@ -1,0 +1,47 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body{
+  background-color: #cefae7;
+  font-family: 'Times New Roman', Times, serif;
+}
+.contenedor{
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+header{
+  width: 100%;
+  padding: 20px;
+  background:#5fe3ab;
+  border-radius: 10%;
+  display: flex;
+  flex-flow: row wrap;
+ }
+ header .logo{
+font-size: 15px;
+
+ }
+header .logo img{
+  width: 70px;
+  vertical-align: top;
+  }
+header .logo a{
+  color: #076388;
+  text-decoration: none;
+  line-height: 70px;
+  font-size: 30px;
+   }
+nav{
+  width: 100%;
+  align-items: center;
+}
+nav a{
+  display: 
+}
+ 
